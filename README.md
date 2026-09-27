@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coin CLI
 
 A lightweight command-line interface (CLI) tool to manage your CoinMarketCap API key and track real-time cryptocurrency prices with live updates.
@@ -31,3 +32,7 @@ A lightweight command-line interface (CLI) tool to manage your CoinMarketCap API
 * **[inquirer](https://www.npmjs.com/package/inquirer)** - Interactive CLI prompts used to take the API key input.
 * **[configstore](https://www.npmjs.com/package/configstore)** - Easily persist and manage configuration and API key data locally without hassle.
 * **[colors](https://www.npmjs.com/package/colors)** - Adds color styling and formatting to terminal output for a better visual experience.
+=======
+# coinCLI
+cli tool for checking price of a crypto coin
+>>>>>>> d3a31d49fb071bb7c65391935adc0ff92a900a2f
